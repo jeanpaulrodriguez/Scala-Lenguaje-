@@ -21,7 +21,9 @@ Scala se utiliza en el procesamiento de datos, la computación distribuida y el 
 
 Además, la noción de concordancia de patrones de Scala se extiende de forma natural al procesamiento de datos XML con la ayuda de patrones de secuencia de alineación a la derecha, mediante una extensión general a través de objetos extractores. En este contexto, las comprensiones son útiles para formular consultas. Estas características hacen que Scala sea ideal para desarrollar aplicaciones como los servicios web.
 
-<li>Paradigma: OO, FP, Proc, Logico, etc.</li> 
+<li>Paradigma: OO, FP, Proc, Logico, etc.</li><br>
+  Multi-Paradigma que se enfoca en programacion de objetos.
+  <br><br>
 
 <li>Fortalezas y debilidades</li><br>
   <strong>Fortalezas</strong>
@@ -35,15 +37,20 @@ El hecho de ser un híbrido entre funcional y orientado a objetos a veces puede 
 Como se ejecuta en la JVM, no tiene una verdadera optimización recursiva de cola. Como solución, puedes utilizar la anotación @tailrec para obtener beneficios parciales.
 
 
-<li>Implementación: Compilado, Interpretado, Híbrido, Transpilado, etc.</li>  
+<li>Implementación: Compilado, Interpretado, Híbrido, Transpilado, etc.</li><br>
+  Compilado
+  <br><br>
 
-<li>Runtime / Maquina Virtual</li>  
+<li>Runtime / Maquina Virtual</li><br>
+  Java virtual machine (JVM)
+  <br><br>
 
 <li>Plataformas soportadas: Win, Linux, Mac, etc.</li>
   <br>
   Linux, Microsoft Windows, OS X
-
-<li>Usuarios notables: productos, empresas, etc.</li>
+  <br><br>
+<li>Usuarios notables: productos, empresas, etc.</li><br>
+  Desarrolladores Web<br><br>
 
 <li>Historia: Creadores, 1er Release (versión y fecha), Ultimo release (versión y fecha)</li>
   <br>

@@ -1,21 +1,23 @@
 # Scala-Lenguaje-
 
 <ol>
-Propósito: general, especifico, etc.
+<li>Propósito: general, especifico, etc.</li>
 
-Paradigma: OO, FP, Proc, Logico, etc.
+<li>Paradigma: OO, FP, Proc, Logico, etc.</li>  
 
-Fortalezas y debilidades
+<li>Fortalezas y debilidades</li> 
 
-Implementación: Compilado, Interpretado, Híbrido, Transpilado, etc.
+<li>Implementación: Compilado, Interpretado, Híbrido, Transpilado, etc.</li>  
 
-Runtime / Maquina Virtual
+<li>Runtime / Maquina Virtual</li>  
 
-Plataformas soportadas: Win, Linux, Mac, etc.
+<li>Plataformas soportadas: Win, Linux, Mac, etc.</li>
 
-Usuarios notables: productos, empresas, etc.
+<li>Usuarios notables: productos, empresas, etc.</li>
 
-Historia: Creadores, 1er Release (versión y fecha), Ultimo release (versión y fecha)
+<li>Historia: Creadores, 1er Release (versión y fecha), Ultimo release (versión y fecha)</li>  
 
-Estado: Activo, Muerto, etc.
-<ol>
+<li>Estado: Activo, Muerto, etc.</li>
+
+</ol>
+

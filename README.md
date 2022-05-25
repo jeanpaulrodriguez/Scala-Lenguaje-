@@ -1,5 +1,6 @@
 # Scala-Lenguaje-
 
+<ol>
 Propósito: general, especifico, etc.
 
 Paradigma: OO, FP, Proc, Logico, etc.
@@ -17,3 +18,4 @@ Usuarios notables: productos, empresas, etc.
 Historia: Creadores, 1er Release (versión y fecha), Ultimo release (versión y fecha)
 
 Estado: Activo, Muerto, etc.
+<ol>
